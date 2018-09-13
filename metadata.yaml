@@ -1,0 +1,25 @@
+_repo: A-Garden-Diary-September-1899September-1900_51477
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawless, Emily
+    birthdate: 1845
+    deathdate: 1913
+    gutenberg_agent_id: '4132'
+    url: http://www.gutenberg.org/2009/agents/4132
+    wikipedia: http://en.wikipedia.org/wiki/Emily_Lawless
+description: ''
+gutenberg_issued: '2016-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51477'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Gardening'
+- GITenberg
+title: A Garden Diary, September 1899—September 1900
+url: http://www.gutenberg.org/ebooks/51477
